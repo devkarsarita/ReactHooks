@@ -1,0 +1,13 @@
+.App {
+  font-family: poppins;
+  text-align: center;
+}
+
+.btn {
+  color: coral;
+  padding: 10px;
+  font-weight: 800;
+  border-radius: 10px;
+  border-style: none;
+  background-color: cornsilk;
+}
